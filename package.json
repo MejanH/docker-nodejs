@@ -1,0 +1,16 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "Docker Tutorial with Nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": ["docker", "nodejs", "web-server"],
+  "author": "Alhaqi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
